@@ -37,6 +37,7 @@
         <button>Sla op</button>
     </form>
     <button onclick="window.location.href='/appointment/create'">Reset</button>
+    <button onclick="window.location.href='/appointment/index'">Afspraken</button>
 
 </body>
 </html>

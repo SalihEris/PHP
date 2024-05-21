@@ -47,9 +47,7 @@ class Appointment extends BaseController
 
             $result = $this->appointmentModel->createAppointment($_POST);
 
-            echo '<div class="alert alert-success" role="alert">
-                    Uw gegevens zijn opgeslagen. U wordt doorgestuurd naar de index-pagina.
-                  </div>';
+            
 
         }
 
